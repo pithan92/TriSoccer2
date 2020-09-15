@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Tri Soccer</string>
+    <string-array name="activity_time_favorito_spinner_Time_recebido">
+        <item>Grêmio</item>
+        <item>Internacional</item>
+        <item>Juventude</item>
+        <item>Caxias</item>
+    </string-array>
 </resources>
